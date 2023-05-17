@@ -1,0 +1,37 @@
+{
+    "1": {
+        "Name": "Prajakta",
+        "DOB": 1997,
+        "Height": 5.3,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    },
+    "2": {
+        "Name": "Akshay",
+        "DOB": 1996,
+        "Height": 6.0,
+        "City": "Hyderabad",
+        "State": "Telangana"
+    },
+    "3": {
+        "Name": "Gayatri",
+        "DOB": 1995,
+        "Height": 5.9,
+        "City": "Pune",
+        "State": "Maharashtra"
+    },
+    "4": {
+        "Name": "Pooja",
+        "DOB": 1997,
+        "Height": 6.1,
+        "City": "Mumbai",
+        "State": "Maharashtra"
+    },
+    "5": {
+        "Name": "Pranoti",
+        "DOB": 1998,
+        "Height": 5.6,
+        "City": "Bengaluru",
+        "State": "Karnataka"
+    }
+}
